@@ -21,7 +21,7 @@ The user will first encounter a landing page where they can click a link that ta
 
 ## Links
 
-Link to Heroku: 
+Link to Heroku deployment: <https://desolate-tundra-49897.herokuapp.com/>
 
 ## Questions
 
